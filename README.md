@@ -3,7 +3,7 @@ Simple and minimaltistic password generator
 
 Need a quick and secure password? This a right choice
 
-# Pros and Cons
+# Pros
 
 + Customizable password lenght
 
